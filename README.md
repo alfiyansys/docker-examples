@@ -2,7 +2,7 @@
 
 
 ```
-docker build -t example
+docker build -t example .
 docker run -p 3000:80 example
 ```
 
